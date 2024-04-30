@@ -1,0 +1,10 @@
+name: causalapp_en
+title:
+username: equity-cerpop
+account: equity-cerpop
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11759528
+bundleId: 8554902
+url: https://equity-cerpop.shinyapps.io/causalapp_en/
+version: 1
